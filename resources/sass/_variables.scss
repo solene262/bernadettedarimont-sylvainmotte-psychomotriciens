@@ -1,0 +1,31 @@
+// Body
+$body-bg: white;
+$body-bg-grey: #f6f6f6;
+$white-false: #F0F8FF;
+$red-light: #f4511e;
+$red-main: #FF0000;
+$red-dark: #C11B17;
+$text-standard: #303030;
+$text-light: #656565;
+
+$red-danger: rgb(255, 0, 0);
+$green-success: rgb(0, 223, 0);
+
+// Typography
+$font-family-sans-serif: 'Montserrat', sans-serif;
+$font-size-base: 0.8rem;
+$line-height-base: 1.6;
+
+
+
+//navbar
+$navbar-padding-y: 0;
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px
+);
